@@ -28,7 +28,7 @@ It demonstrates how data analysis can support better healthcare decision-making.
 
 
 
-                               Output
+                                        ** OUTPUT**
               
 BAR CHART
 
